@@ -1,4 +1,4 @@
-# DNA_Analise
+# DNA_Analysis
 ## Code information
 The code was developed with the objective of performing an analysis on a fictitious DNA molecule, counting the nucleotide pairs in sequence and presenting them in a graph.
 
